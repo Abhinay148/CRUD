@@ -1,0 +1,60 @@
+/* index.css */
+
+/* Global styles for the entire application */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Styles for the header element */
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+}
+
+/* Styles for the navigation links in the header */
+header a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Styles for the main content section */
+main {
+  padding: 20px;
+}
+
+/* Styles for the user list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Styles for buttons */
+button {
+  margin-left: 85px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+label{
+  padding:4px 4px 4px 4px;
+}
+/* Add more CSS styles as needed */
+input{
+  width: 20%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
